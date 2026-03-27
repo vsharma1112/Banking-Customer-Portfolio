@@ -1,4 +1,4 @@
-Banking Customers Portfolio
+# Banking Customers Portfolio
 
 🎯 Optimize Account Portfolio Performance
 
@@ -25,3 +25,8 @@ e. Seasonal investment fluctuations create challenges in financial forecasting.
 * Build recommendation systems based on spending patterns (category & merchant level).
 * Introduce performance-based incentives for brokers (quarterly bonuses, rankings).	
 * Use historical quarterly trends to forecast investments and allocate resources.
+
+Dashboard Preview:
+## 📊 Financial-Transaction-Performance-Analysis
+
+![assets/Banking-Customer-Portfolio.png](https://github.com/vsharma1112/Banking-Customer-Portfolio/blob/main/Banking%20customer%20%20portfolio.png).
